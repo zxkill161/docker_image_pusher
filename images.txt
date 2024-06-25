@@ -7,3 +7,4 @@ nginx
 
 keynetworks/ztncui:latest
 portainer/portainer
+loganjindev/zerotier-ztncui
