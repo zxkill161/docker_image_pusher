@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 keynetworks/ztncui:latest
+portainer/portainer
