@@ -15,3 +15,4 @@ rustdesk/rustdesk-server
 xhofe/alist
 messense/aliyundrive-webdav
 jellyfin/jellyfin
+akimio/autofilm
