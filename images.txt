@@ -8,3 +8,6 @@ nginx
 keynetworks/ztncui:latest
 portainer/portainer
 loganjindev/zerotier-ztncui
+emby/embyserver:latest
+vaultwarden/server:latest
+rustdesk/rustdesk-server
