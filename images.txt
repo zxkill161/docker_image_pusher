@@ -14,3 +14,4 @@ vaultwarden/server:latest
 rustdesk/rustdesk-server
 xhofe/alist
 messense/aliyundrive-webdav
+jellyfin/jellyfin
