@@ -18,3 +18,4 @@ jellyfin/jellyfin
 akimio/autofilm
 shenxianmq/auto_symlink
 tinymediamanager/tinymediamanager
+dzhuang/tinymediamanager
