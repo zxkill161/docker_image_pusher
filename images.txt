@@ -16,3 +16,4 @@ xhofe/alist
 messense/aliyundrive-webdav
 jellyfin/jellyfin
 akimio/autofilm
+shenxianmq/auto_symlink
