@@ -19,4 +19,4 @@ akimio/autofilm
 shenxianmq/auto_symlink
 tinymediamanager/tinymediamanager
 dzhuang/tinymediamanager:latest-v5
-allanpk716/chinesesubfinder:latest-lite
+allanpk716/chinesesubfinder:v0.55.3-lite
