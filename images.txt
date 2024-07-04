@@ -21,3 +21,4 @@ tinymediamanager/tinymediamanager
 dzhuang/tinymediamanager:latest-v5
 allanpk716/chinesesubfinder:v0.55.2-lite
 xinjiawei1/emby_unlockd:latest
+xinjiawei1/emby_unlockd:stable
