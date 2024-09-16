@@ -12,7 +12,7 @@ loganjindev/zerotier-ztncui
 emby/embyserver:latest
 vaultwarden/server:latest
 rustdesk/rustdesk-server
-xhofe/alist
+xhofe/alist:latest
 messense/aliyundrive-webdav
 jellyfin/jellyfin
 akimio/autofilm
