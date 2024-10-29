@@ -7,7 +7,7 @@ nginx:alpine
 #--platform=linux/arm64 xiaoyaliu/alist
 
 keynetworks/ztncui:latest
-portainer/portainer
+#portainer/portainer
 loganjindev/zerotier-ztncui
 emby/embyserver:latest
 vaultwarden/server:latest
