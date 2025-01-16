@@ -25,3 +25,4 @@ xinjiawei1/emby_unlockd:stable
 rclone/rclone
 mysql:latest
 cloudnas/clouddrive2
+thsrite/medialinker
