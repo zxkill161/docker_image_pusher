@@ -27,3 +27,4 @@ thsrite/medialinker
 shenxianmq/auto_symlink
 xinjiawei1/emby_unlockd:latest
 xinjiawei1/emby_unlockd:stable
+imaliang/cloud-media-sync
