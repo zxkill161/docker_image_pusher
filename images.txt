@@ -29,3 +29,4 @@ xinjiawei1/emby_unlockd:latest
 xinjiawei1/emby_unlockd:stable
 imaliang/cloud-media-sync:latest
 containrrr/watchtower
+debian:bookworm-slim
