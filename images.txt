@@ -31,3 +31,4 @@ imaliang/cloud-media-sync:latest
 containrrr/watchtower
 debian:stable-slim
 debian:stable
+alpine:latest
