@@ -1,3 +1,4 @@
+alpine:latest
 nginx
 nginx:alpine
 #支持私库
@@ -31,4 +32,4 @@ imaliang/cloud-media-sync:latest
 containrrr/watchtower
 debian:stable-slim
 debian:stable
-alpine:latest
+
