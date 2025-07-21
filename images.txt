@@ -32,4 +32,4 @@ imaliang/cloud-media-sync:latest
 containrrr/watchtower
 debian:stable-slim
 debian:stable
-
+remedy5902/media_automator
