@@ -8,6 +8,8 @@ nginx:alpine
 #--platform=linux/arm64 xiaoyaliu/alist
 
 diygod/rsshub
+browserless/chrome
+redis:alpine
 keynetworks/ztncui:latest
 #portainer/portainer
 loganjindev/zerotier-ztncui
