@@ -7,6 +7,7 @@ nginx:alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+diygod/rsshub
 keynetworks/ztncui:latest
 #portainer/portainer
 loganjindev/zerotier-ztncui
